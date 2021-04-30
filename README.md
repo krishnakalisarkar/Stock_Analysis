@@ -18,6 +18,7 @@ Looking at the above Excel sheet and the bar graph visualization of the same dat
 	**Above 100% annual return:**
 	
 The top 3 companies with high returns are DQ with 199.4%, followed by SEDG at 184.5% and ENPH with 129.5%. FSLR had a fairly good return with 101.3%. 
+
 	**50% to 100% annual return:**
 	
 Two companies VSLR (50%) and JKS (53.9%) had an annual return between 50 % to 100% in 2017. 
@@ -25,7 +26,7 @@ Two companies VSLR (50%) and JKS (53.9%) had an annual return between 50 % to 10
 
 The companies trailing at less than 50% returns are CSIQ at 33.1%, HASI at 25.8% and SPWR at 23%. 
 
-**Negative returns in percentage 2017**
+	**Negative returns in percentage 2017**
 
 The company that failed to leave a positive mark at the stock market in 2017 is TERP, trailing behind at -7.2% return.
 
