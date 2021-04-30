@@ -10,6 +10,7 @@ The main purpose of this analysis is to get an insight into the stock market ret
 **Analysis for Stock returns of 2017:**
    
 ![Figure:1](Resource/Succesful_backers.png)
+
 Looking at the above Excel sheet and the bar graph visualization of the same data, it is clearly evident that as far as overall market goes most of the stocks did fairly well in 2017. Some companies had a much higher percentage returns as compared to others.
 
 **Positive returns in percentage 2017**
@@ -28,6 +29,7 @@ The company that failed to leave a positive mark at the stock market in 2017 is 
 
   
 ![Figure:2](Resource/Failed_backer.png)
+
 Looking at the above Excel sheet of 2018 returns and the bar graph visualization of the same data, it is shocking to see that most of the stocks failed miserably in 2018.
 **Positive returns in percentage 2018**
 
@@ -45,6 +47,7 @@ The other companies that had a low return are VSLR (-3.5%), TERP (-5.0%), AY (7.
 **Comparing each company’s stock returns in 2017 and 2018:**
  
 ![Figure:3](Resource/Failed_backer.png)
+
 By comparing the stocks in 2017 and 2018 some interesting trends come out in light. 
 •	Of all the stocks analyzed only RUN stocks jumped from a mere 5.4% return in 2017 to a whooping 84.0% return 2018. Apart from this all-other stock experienced a fall.
 •	The companies that experienced huge fall in returns are DQ from 199.4% in 2017 to -62.6% in 2018) and SEDG from 184.5% in 2017 to -7.8% in 2018. Interestingly, these two companies that had almost 200% return in 2017 and in 2018 they are experiencing negative returns.
@@ -52,9 +55,11 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 
 Execution time:
 ![Figure:4](Resource/Failed_backer.png)
+
 •	The execution time for my refactored code for 2017 and 2018 both ran for 0.0703125 seconds.
   
 ![Figure:5](Resource/Failed_backer.png)
+
 •	The execution time for the original code for years 2017 and 2018 was 0.46875 seconds. 
 •	The refactored code execution time is much shorter than the original code execution time.
 
