@@ -63,7 +63,7 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 •	The companies that experienced huge fall in returns are DQ from 199.4% in 2017 to -62.6% in 2018) and SEDG from 184.5% in 2017 to -7.8% in 2018. Interestingly, these two companies that had almost 200% return in 2017 and in 2018 they are experiencing negative returns.
 •	Although, ENPH experienced loss in return from 2017 to 2018, yet it managed to have a positive return in 2018, as compared to all other stocks which had a negative return.
 
-Execution time:
+**Execution time:**
 ![Figure:4](Resource/Failed_backer.png)
 
 •	The execution time for my refactored code for 2017 and 2018 both ran for 0.0703125 seconds.
@@ -76,8 +76,8 @@ Execution time:
 **Summary:**
 
 **1.Pros and Cons of Refactoring Code:**
-*"Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."*
--	*Martin Fowler*
+*"Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."* 																			*Martin Fowler*
+-	
 
 Code Refactoring is a way of restructuring and optimizing existing code without changing its behavior. It is a way to improve the code quality. 
 **Pros of Refactoring:**
