@@ -80,6 +80,7 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 -	
 
 Code Refactoring is a way of restructuring and optimizing existing code without changing its behavior. It is a way to improve the code quality. 
+
 **Pros of Refactoring:**
 •	The main goal of code refactoring is to make it easy to enhance and maintain system performance in the future.
 
@@ -90,20 +91,23 @@ Code Refactoring is a way of restructuring and optimizing existing code without 
 •	Fixes bugs.
 
 **Cons of Refactoring:**
+
 *"You shouldn't refactor if a deadline is near.” Says Martin Fowler*
 •	Code refactoring is time-consuming. It takes anywhere many hours to update the existing codes in small projects. Big projects require even longer hours which is disadvantageous.
 •	If big changes and modifications are needed to the system’s structure, it is easier to build new code from scratch.
 •	Refactoring can mess up with the existing code and the code can break apart, taking longer hours to fix that.
 
 **2.How do these pros and cons apply to refactoring the original VBA script?**
+
 •	**Pros:**
-	The execution time was shorter 0.46875 seconds. 
-	The code size is shorter, removed duplicated codes.
-	The code is more structured and well designed with messages.
-	Easy to maintain and understand in the future.
+	.The execution time was shorter 0.46875 seconds. 
+	.The code size is shorter, removed duplicated codes.
+	.The code is more structured and well designed with messages.
+	.Easy to maintain and understand in the future.
+	
 •	**Cons:**
-	Took longer time to clean up.
-	The code would break from time to time and debugging took a long time.
+	.Took longer time to clean up.
+	.The code would break from time to time and debugging took a long time.
 
 
 
