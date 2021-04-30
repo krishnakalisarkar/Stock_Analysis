@@ -93,7 +93,7 @@ Code Refactoring is a way of restructuring and optimizing existing code without 
 
 **Cons of Refactoring:**
 
-*"You shouldn't refactor if a deadline is near.” Says Martin Fowler*
+**"You shouldn't refactor if a deadline is near.” Says Martin Fowler**
 
 •	Code refactoring is time-consuming. It takes anywhere many hours to update the existing codes in small projects. Big projects require even longer hours which is disadvantageous.
 •	If big changes and modifications are needed to the system’s structure, it is easier to build new code from scratch.
