@@ -11,7 +11,7 @@ The main purpose of this analysis is to get an insight into the stock market ret
 
 **Analysis for Stock returns of 2017:**
    
-![Figure:1](Resource/Succesful_backers.png)
+![Figure:1](Resources_VBA/Figure1_Stock_return_2017.png)
 
 Looking at the above Excel sheet and the bar graph visualization of the same data, it is clearly evident that as far as overall market goes most of the stocks did fairly well in 2017. Some companies had a much higher percentage returns as compared to others.
 
