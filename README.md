@@ -47,6 +47,7 @@ There were no companies with an annual return of above 100%.
 The two companies standing tall in this market are ENPH with 81.9% and RUN with a return of 84%.
 
 **Less than 50% annual return:**
+
 There are no other companies who made a mark in 2018.
 
 **Negative returns in percentage 2018**
