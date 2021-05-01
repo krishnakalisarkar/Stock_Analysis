@@ -21,11 +21,11 @@ Looking at the above Excel sheet and the bar graph visualization of the same dat
 	
 The top 3 companies with high returns are DQ with 199.4%, followed by SEDG at 184.5% and ENPH with 129.5%. FSLR had a fairly good return with 101.3%. 
 
-- **50% to 100% annual return:
+- **50% to 100% annual return:**
 	
 Two companies VSLR (50%) and JKS (53.9%) had an annual return between 50 % to 100% in 2017. 
 
-- **Less than 50% annual return:
+- **Less than 50% annual return:**
 
 The companies trailing at less than 50% returns are CSIQ at 33.1%, HASI at 25.8% and SPWR at 23%. 
 
@@ -81,8 +81,9 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 
 **1.Pros and Cons of Refactoring Code:**
 
-*"Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."* 																			*Martin Fowler*
--	
+**"Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."**
+																	     **"Martin fowler"**
+
 
 Code Refactoring is a way of restructuring and optimizing existing code without changing its behavior. It is a way to improve the code quality. 
 
@@ -99,7 +100,7 @@ Code Refactoring is a way of restructuring and optimizing existing code without 
 
 **"You shouldn't refactor if a deadline is near.” Says Martin Fowler**
 
-•	Code refactoring is time-consuming. It takes anywhere many hours to update the existing codes in small projects. Big projects require even longer hours which is disadvantageous.
+•	Code refactoring is time-consuming. It takes anywhere many hours to update the existing codes in small projects. Big projects require even longer hours 	which is disadvantageous.
 •	If big changes and modifications are needed to the system’s structure, it is easier to build new code from scratch.
 •	Refactoring can mess up with the existing code and the code can break apart, taking longer hours to fix that.
 
