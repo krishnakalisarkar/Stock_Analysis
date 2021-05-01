@@ -60,7 +60,7 @@ The other companies that had a low return are VSLR (-3.5%), TERP (-5.0%), AY (7.
 
 **Comparing each company’s stock returns in 2017 and 2018:**
  
-![Figure:3](Resource/Failed_backer.png)
+![Figure:3](Resources_VBA/Figure3_Compare_2017_2018.png)
 
 By comparing the stocks in 2017 and 2018 some interesting trends come out in light. 
 •	Of all the stocks analyzed only RUN stocks jumped from a mere 5.4% return in 2017 to a whooping 84.0% return 2018. Apart from this all-other stock experienced a fall.
