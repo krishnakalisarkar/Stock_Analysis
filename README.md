@@ -1,5 +1,5 @@
 # Stock_Analysis
-
+https://media1.s-nbcnews.com/j/newscms/2021_07/3451526/210220-charging-bull-al-1143_91543fabfc6aa09e22649f946ad156a9.fit-2000w.jpg
 **Title: VBA Analysis of Wall Street Stock Market in 2017 and 2018**
 
 **Purpose of this Analysis:**
