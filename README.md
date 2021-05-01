@@ -1,5 +1,6 @@
 # Stock_Analysis
-https://media1.s-nbcnews.com/j/newscms/2021_07/3451526/210220-charging-bull-al-1143_91543fabfc6aa09e22649f946ad156a9.fit-2000w.jpg
+![Figure:Bull](Resource/Succesful_backers.png)
+
 **Title: VBA Analysis of Wall Street Stock Market in 2017 and 2018**
 
 **Purpose of this Analysis:**
@@ -7,6 +8,7 @@ https://media1.s-nbcnews.com/j/newscms/2021_07/3451526/210220-charging-bull-al-1
 The main purpose of this analysis is to get an insight into the stock market returns of few companies in two consecutive years namely 2017 and 2018. Based on the output of this analysis, it is easier for the stakeholders to decide on the fate of their stocks, if they want to keep the stocks or tradeoff for a better blooming one. This analysis would also be a guide for future investors to decide on which company to invest their money on. By comparing few consecutive years gives a clear picture of stock trends over the same period.
 
 **Results:**
+
 **Analysis for Stock returns of 2017:**
    
 ![Figure:1](Resource/Succesful_backers.png)
