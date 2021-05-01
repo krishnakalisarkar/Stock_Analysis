@@ -68,7 +68,7 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 •	Although, ENPH experienced loss in return from 2017 to 2018, yet it managed to have a positive return in 2018, as compared to all other stocks which had a negative return.
 
 **Execution time:**
-![Figure:4](Resource/Failed_backer.png)
+![Figure:4](Resources_VBA/Figure4_Refactored_time.png)
 
 •	The execution time for my refactored code for 2017 and 2018 both ran for 0.0703125 seconds.
   
