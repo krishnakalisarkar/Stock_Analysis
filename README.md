@@ -33,7 +33,7 @@ The companies trailing at less than 50% returns are CSIQ at 33.1%, HASI at 25.8%
 
 The company that failed to leave a positive mark at the stock market in 2017 is TERP, trailing behind at -7.2% return.
 
-**Analysis for Stock returns of 2018:**
+### Analysis for Stock returns of 2018:
 
   
 ![Figure:2](Resources_VBA/Figure2_Stockreturn_2018.png)
