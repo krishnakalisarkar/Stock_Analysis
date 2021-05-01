@@ -1,5 +1,5 @@
 # Stock_Analysis
-![Figure:Bull](Resource/Succesful_backers.png)
+![Figure:Bull](http://www.bullmarketleads.net/images/banner.jpg)
 
 **Title: VBA Analysis of Wall Street Stock Market in 2017 and 2018**
 
