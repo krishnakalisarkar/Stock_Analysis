@@ -36,7 +36,7 @@ The company that failed to leave a positive mark at the stock market in 2017 is 
 **Analysis for Stock returns of 2018:**
 
   
-![Figure:2](Resource/Failed_backer.png)
+![Figure:2](Resources_VBA/Figure2_Stockreturn_2018.png)
 
 Looking at the above Excel sheet of 2018 returns and the bar graph visualization of the same data, it is shocking to see that most of the stocks failed miserably in 2018.
 
