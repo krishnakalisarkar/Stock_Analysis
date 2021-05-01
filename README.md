@@ -40,7 +40,7 @@ The company that failed to leave a positive mark at the stock market in 2017 is 
 
 Looking at the above Excel sheet of 2018 returns and the bar graph visualization of the same data, it is shocking to see that most of the stocks failed miserably in 2018.
 
-### Positive returns in percentage 2018
+#### Positive returns in percentage 2018
 
 - **Above 100% annual return:**
 There were no companies with an annual return of above 100%.
@@ -53,7 +53,7 @@ The two companies standing tall in this market are ENPH with 81.9% and RUN with 
 
 There are no other companies who made a mark in 2018.
 
-### Negative returns in percentage 2018
+#### Negative returns in percentage 2018
 
 Most of the companies had a negative annual return in 2018. The worst hit is DQ with a return of -62.6% and JKS with -60.5%. This is followed by SPWR with -44.6%, FSLR with – 39.7%, HASI at -20.7% and CSIQ at -16.3%.
 The other companies that had a low return are VSLR (-3.5%), TERP (-5.0%), AY (7.3) and SEDG at (7.8%).
@@ -67,7 +67,7 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 •	The companies that experienced huge fall in returns are DQ from 199.4% in 2017 to -62.6% in 2018) and SEDG from 184.5% in 2017 to -7.8% in 2018. Interestingly, these two companies that had almost 200% return in 2017 and in 2018 they are experiencing negative returns.
 •	Although, ENPH experienced loss in return from 2017 to 2018, yet it managed to have a positive return in 2018, as compared to all other stocks which had a negative return.
 
-#### Execution time:
+### Execution time:
 ![Figure:4](Resources_VBA/Figure4_Refactored_time.png)
 
 •	The execution time for my refactored code for 2017 and 2018 both ran for 0.0703125 seconds.
@@ -77,7 +77,7 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 •	The execution time for the original code for years 2017 and 2018 was 0.46875 seconds. 
 •	The refactored code execution time is much shorter than the original code execution time.
 
-### Summary:
+## Summary:
 
 **1.Pros and Cons of Refactoring Code:**
 
