@@ -72,7 +72,7 @@ By comparing the stocks in 2017 and 2018 some interesting trends come out in lig
 
 •	The execution time for my refactored code for 2017 and 2018 both ran for 0.0703125 seconds.
   
-![Figure:5](Resource/Failed_backer.png)
+![Figure:5](Resources_VBA/Figure5_Original_time.png)
 
 •	The execution time for the original code for years 2017 and 2018 was 0.46875 seconds. 
 •	The refactored code execution time is much shorter than the original code execution time.
